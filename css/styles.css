@@ -121,7 +121,7 @@ a{
     align-items: center;
     font-size: 1.8rem;
 }
-.switch_track{
+.switch__track{
     background-color: var(--clr-switch-track);
     display: block;
     height: 2rem;
@@ -130,7 +130,7 @@ a{
     cursor: pointer;
     margin: 0.2rem;
 }
-.switch_track::before{
+.switch__track::before{
     content: "";
     background-color: var(--clr-font);
     transition: var(--transition);
@@ -141,7 +141,7 @@ a{
     position: relative;
     left: 0;
 }
-.switch_track--dark::before{
+.switch__track--dark::before{
     left: 2rem;
 }
 
@@ -195,6 +195,7 @@ a{
         grid-template-columns: repeat(4, 1fr);
     }
 }
+
 
 /**********************************/
 /* 5. State Select
