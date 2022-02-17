@@ -252,7 +252,7 @@ a{
 }
 .state-select-list__search::placeholder{
     color: var(--clr-font);
-    opacity: .6;
+    opacity: 0.6;
     transition: var(--transition);
 }
 .state-select-list__item{
