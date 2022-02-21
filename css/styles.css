@@ -300,22 +300,22 @@ a{
     text-transform: uppercase;
 }
 .status__icon--confirmed,
-.info-total--confirmed{
+.info__total--confirmed{
     color: var(--clr-confirmed);
     transition: var(--transition);
 }
 .status__icon--deaths,
-.info-total--deaths{
+.info__total--deaths{
     color: var(--clr-deaths);
     transition: var(--transition);
 }
 .status__icon--vaccinated-1,
-.info-total--vaccinated-1{
+.info__total--vaccinated-1{
     color: var(--clr-vaccinated-1);
     transition: var(--transition);
 }
 .status__icon--vaccinated-2,
-.info-total--vaccinated-2{
+.info__total--vaccinated-2{
     color: var(--clr-vaccinated-2);
     transition: var(--transition);
 }
@@ -344,7 +344,7 @@ a{
     }
 
     .data-box--deaths,
-    .data-box__confirmed,
+    .data-box--confirmed,
     .data-box--vaccinated-abs,
     .data-box--vaccinated-day{
         grid-column: span 2;
