@@ -42,6 +42,8 @@ _elements.selectOptions.forEach(item => {
         _elements.selectStateSelected.innerText = item.innerText;
         _data.id = item.getAttribute("data-id");
         _elements.stateSelectToggle.dispatchEvent(new Event("click"));
+
+        loadData(_data.id);
     });
 });
 
