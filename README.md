@@ -1,6 +1,6 @@
   Créditos do canal @inkasadev
 
- [Youtube](https://youtube.com/inkasadev), 
+ [Youtube](https://youtube.com/inkasadev)
  [Instagram](https://www.instagram.com/inkasadev/) 
  [Twitter](https://twitter.com/inkasadev)
 
