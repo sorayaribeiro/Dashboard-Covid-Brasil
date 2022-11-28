@@ -1,4 +1,6 @@
   Créditos do canal @inkasadev
+  
+  https://sorayaribeiro.github.io/Dashboard-Covid-Brasil/
 
  [Youtube](https://youtube.com/inkasadev)
  [Instagram](https://www.instagram.com/inkasadev/) 
